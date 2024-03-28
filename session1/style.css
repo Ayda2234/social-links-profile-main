@@ -56,7 +56,7 @@ p{
     width: 380px;
     height: fit-content; /* take the sizw of the content*/
     padding: 30px;
-    margin: 90px auto;
+    margin: 90px auto; /* to center the div */
     border-radius: 15px;
 }
 #card * {
